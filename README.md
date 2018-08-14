@@ -1,5 +1,6 @@
 # gmr-mvc
-最简单版本：
+自己手动编写spring mvc，源码研究
+版本 0.0.1，最简单版本：
 主要思路线：
           配置阶段：
                     1. web配置 servlet、servlet-mapping
@@ -17,3 +18,4 @@
                     2. request.getURL,获取用户请求的url
                     3. 匹配URL和对应的Method
                     4. 利用Response将调用结果输出到浏览器
+
